@@ -24,10 +24,10 @@ facebook_username: jeff.bostick
 linkedin_url: https://www.linkedin.com/in/jcbostick/
 
 # Address information
-# address_street: 
+# address_street:
 address_city: Brooklyn
 address_state: NY
-address_zip: 11233
+# address_zip: 11233
 
 # Build settings
 markdown: kramdown
